@@ -1,0 +1,25 @@
+{
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "vetur.validation.template": false,
+    "eslint.probe": ["javascript", "javascriptreact", "vue"],
+    "eslint.validate": ["javascript", "javascriptreact", "vue"],
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.options.useTabs": false,
+    "vetur.format.defaultFormatter.html": "prettier",
+    "vetur.format.defaultFormatter.css": "prettier",
+    "vetur.format.defaultFormatter.postcss": "prettier",
+    "vetur.format.defaultFormatter.scss": "prettier",
+    "vetur.format.defaultFormatter.js": "prettier",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.configPath": ".prettierrc",
+    "prettier.prettierPath": ".prettierrc",
+    "editor.insertSpaces": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "files.eol": "\n",
+    "http.proxyAuthorization": "false"
+}
